@@ -13,14 +13,11 @@
 			"Idle": [{
 				"File": "motions/Diana_idle.motion3.json"
 			}],
-			"touch_head": [{
-				"File": "motions/touch_head.json"
-			}],
-			"touch_body": [{
-				"File": "motions/touch_body.json"
-			}],
-			"touch_special": [{
-				"File": "motions/touch_special.json"
+			"Tap生气 -领结": [{
+				"File": "motions/Diana_tap01.motion3.json",
+				"Text": "嘉心糖屁用没有",
+				"TextDelay": 2000,
+				"TextDuration": 3000
 			}],
 			"Tap= =  左蝴蝶结": [{
 				"File": "motions/Diana_tap02.motion3.json",
